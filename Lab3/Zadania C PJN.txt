@@ -1,0 +1,23 @@
+Zadanie nr 1
+sort -nr test.txt | uniq
+
+Zadanie nr 2
+cat test.txt | grep -oE "[0-9]*" | sort -nr | head -n 1
+
+Zadanie nr 3
+cat test.txt | head -123 | tail +123
+
+Zadanie nr 4
+cat test.txt | head -20 | tail +10
+
+Zadanie nr 5
+egrep -io 'cz|sz' test.txt | wc -l
+
+Zadanie nr 6
+LANG=C sed -i 's/[\d128-\d255]/X/g' test.txt
+
+Zadanie nr 7
+nl test.txt | tac
+
+Zadanie nr 8
+cat test.txt | sed "s/[^a-zA-Z0-9 ]//g" | wc -w
