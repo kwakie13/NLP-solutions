@@ -1,0 +1,29 @@
+﻿Login;Imię;Nazwisko;"Wynik procentowy";"Uzyskana liczba punktów";"Maksymalna liczba punktów";"ANN 1-MAXSCORE";"ANN 1-RESPONSE";"ANN 1-SCORE";"ANN 2-MAXSCORE";"ANN 2-RESPONSE";"ANN 2-SCORE";"ANN 3-MAXSCORE";"ANN 3-RESPONSE";"ANN 3-SCORE";"ANN 4-MAXSCORE";"ANN 4-RESPONSE";"ANN 4-SCORE";"ANN 5-MAXSCORE";"ANN 5-RESPONSE";"ANN 5-SCORE"
+s452694;Piotr;Kaczorek;"80 %";4;5;1;"['choice_3'; 'choice_1']";1;1;"['choice_1'; 'choice_2'; 'choice_3']";1;1;8;0;1;"['choice_1'; 'choice_3']";1;1;"[choice_2 undefined_1; choice_3 gap_1; choice_5 gap_2]";1
+s452741;Paulina;Stefaniuk;"60 %";3;5;1;"['choice_1'; 'choice_3']";1;1;"['choice_1'; 'choice_3']";0;1;9;1;1;"['choice_1'; 'choice_3']";1;1;"[choice_4 undefined_1; choice_2 gap_1; choice_5 gap_2]";0
+s459315;Aleksander;Burkowski;"60 %";3;5;1;"['choice_2'; 'choice_3']";0;1;"['choice_1'; 'choice_2'; 'choice_3']";1;1;9;1;1;"['choice_1'; 'choice_3']";1;1;"[choice_1 undefined_1; choice_4 gap_1; choice_5 gap_2]";0
+s452627;Jakub;Henyk;"100 %";5;5;1;"['choice_3'; 'choice_1']";1;1;"['choice_1'; 'choice_2'; 'choice_3']";1;1;9;1;1;"['choice_1'; 'choice_3']";1;1;"[choice_2 undefined_1; choice_3 gap_1; choice_5 gap_2]";1
+s452714;Maria;Nowaczyk;"60 %";3;5;1;"['choice_1'; 'choice_3']";1;1;['choice_1'];0;1;9;1;1;"['choice_1'; 'choice_3']";1;1;"[choice_4 undefined_1; choice_2 gap_1; choice_5 gap_2]";0
+s452704;Patryk;Drzewiński;"60 %";3;5;1;"['choice_1'; 'choice_3']";1;1;"['choice_1'; 'choice_2'; 'choice_3']";1;1;8;0;1;"['choice_1'; 'choice_3']";1;1;"[choice_2 undefined_1; choice_4 gap_1; choice_5 gap_2]";0
+s452671;Kuba;Jądrzak;"60 %";3;5;1;"['choice_3'; 'choice_1']";1;1;"['choice_1'; 'choice_2'; 'choice_3']";1;1;7;0;1;"['choice_1'; 'choice_3']";1;1;"[choice_1 undefined_1; choice_4 gap_1; choice_6 gap_2]";0
+s452653;Adrian;Antkowiak;"60 %";3;5;1;"['choice_1'; 'choice_3']";1;1;['choice_4'];0;1;9;1;1;"['choice_1'; 'choice_3']";1;1;"[choice_2 undefined_1; choice_4 gap_1; choice_5 gap_2]";0
+s459310;Kornel;Weryszko;"80 %";4;5;1;"['choice_3'; 'choice_1']";1;1;"['choice_1'; 'choice_2'; 'choice_3']";1;1;9;1;1;"['choice_1'; 'choice_3']";1;1;"[choice_2 undefined_1; choice_4 gap_1; choice_5 gap_2]";0
+s452746;Mateusz;Walas;"60 %";3;5;1;"['choice_1'; 'choice_3']";1;1;"['choice_1'; 'choice_2'; 'choice_3']";1;1;9;1;1;"['choice_1'; 'choice_4']";0;1;"[choice_2 undefined_1; choice_4 gap_1; choice_5 gap_2]";0
+s425850;Łukasz;Koziej;"60 %";3;5;1;"['choice_1'; 'choice_3']";1;1;"['choice_1'; 'choice_2'; 'choice_3']";1;1;9;1;1;"['choice_1'; 'choice_4']";0;1;"[choice_2 undefined_1; choice_5 gap_1; choice_4 gap_2]";0
+"LABS\s452719";Andrei;Strachynski;"100 %";5;5;1;"['choice_1'; 'choice_3']";1;1;"['choice_1'; 'choice_2'; 'choice_3']";1;1;9;1;1;"['choice_1'; 'choice_3']";1;1;"[choice_2 undefined_1; choice_3 gap_1; choice_5 gap_2]";1
+s452667;Konrad;Jasiński;"80 %";4;5;1;"['choice_1'; 'choice_3']";1;1;"['choice_1'; 'choice_2'; 'choice_3']";1;1;9;1;1;"['choice_1'; 'choice_3']";1;1;"[choice_2 undefined_1; choice_4 gap_1; choice_5 gap_2]";0
+s452682;Stsiapan;Bukel;"60 %";3;5;1;"['choice_3'; 'choice_1']";1;1;"['choice_2'; 'choice_3']";0;1;7;0;1;"['choice_1'; 'choice_3']";1;1;"[choice_2 undefined_1; choice_3 gap_1; choice_5 gap_2]";1
+s452664;Cezary;Adamczak;"40 %";2;5;1;"['choice_3'; 'choice_1']";1;1;['choice_2'];0;1;9;1;1;['choice_3'];0;1;"[choice_1 undefined_1; choice_4 gap_1; choice_5 gap_2]";0
+s452696;Jakub;Szczapa;"60 %";3;5;1;"['choice_1'; 'choice_3']";1;1;"['choice_1'; 'choice_2'; 'choice_3']";1;1;9;1;1;"['choice_1'; 'choice_4']";0;1;"[choice_2 undefined_1; choice_4 gap_1; choice_5 gap_2]";0
+s452633;Michał;Zaporski;"100 %";5;5;1;"['choice_1'; 'choice_3']";1;1;"['choice_1'; 'choice_2'; 'choice_3']";1;1;9;1;1;"['choice_1'; 'choice_3']";1;1;"[choice_2 undefined_1; choice_3 gap_1; choice_5 gap_2]";1
+s452698;Bartosz;Wawrzyniak;"80 %";4;5;1;"['choice_1'; 'choice_3']";1;1;"['choice_1'; 'choice_3']";0;1;9;1;1;"['choice_1'; 'choice_3']";1;1;"[choice_2 undefined_1; choice_3 gap_1; choice_5 gap_2]";1
+s452722;Mateusz;Drewniak;"100 %";5;5;1;"['choice_3'; 'choice_1']";1;1;"['choice_1'; 'choice_2'; 'choice_3']";1;1;9;1;1;"['choice_1'; 'choice_3']";1;1;"[choice_2 undefined_1; choice_3 gap_1; choice_5 gap_2]";1
+s458903;Tomasz;Adamczyk;"60 %";3;5;1;"['choice_3'; 'choice_1']";1;1;"['choice_1'; 'choice_2'; 'choice_3']";1;1;9;1;1;"['choice_1'; 'choice_4']";0;1;"[choice_2 undefined_1; choice_4 gap_1; choice_5 gap_2]";0
+s444413;Arkadiusz;Kowalski;"40 %";2;5;1;"['choice_3'; 'choice_1']";1;1;"['choice_1'; 'choice_2'; 'choice_3']";1;1;7;0;1;['choice_3'];0;1;"[choice_2 undefined_1; choice_4 gap_1; choice_5 gap_2]";0
+s452625;Szymon;Sławianowski;"20 %";1;5;1;"['choice_1'; 'choice_2']";0;1;"['choice_1'; 'choice_4']";0;1;7;0;1;"['choice_2'; 'choice_3']";0;1;"[choice_2 undefined_1; choice_3 gap_1; choice_5 gap_2]";1
+s452686;Piotr;Wygocki;"60 %";3;5;1;"['choice_3'; 'choice_1']";1;1;"['choice_1'; 'choice_2'; 'choice_3']";1;1;9;1;1;"['choice_1'; 'choice_4']";0;1;"[choice_2 undefined_1; choice_4 gap_1; choice_5 gap_2]";0
+s452717;Adam;Skorupa;"60 %";3;5;1;"['choice_1'; 'choice_3']";1;1;"['choice_1'; 'choice_2'; 'choice_3']";1;1;9;1;1;"['choice_1'; 'choice_4']";0;1;"[choice_2 undefined_1; choice_4 gap_1; choice_5 gap_2]";0
+s452639;Robert;Bendun;"60 %";3;5;1;"['choice_1'; 'choice_3']";1;1;"['choice_1'; 'choice_4']";0;1;8;0;1;"['choice_1'; 'choice_3']";1;1;"[choice_2 undefined_1; choice_3 gap_1; choice_5 gap_2]";1
+s452622;Mateusz;Romański;"60 %";3;5;1;"['choice_1'; 'choice_3']";1;1;"['choice_1'; 'choice_2'; 'choice_3']";1;1;9;1;1;"['choice_1'; 'choice_4']";0;1;"[choice_2 undefined_1; choice_4 gap_1; choice_5 gap_2]";0
+S452661;Jakub;Danilewicz;"40 %";2;5;1;"['choice_1'; 'choice_2']";0;1;"['choice_1'; 'choice_2'; 'choice_3']";1;1;7;0;1;"['choice_1'; 'choice_3']";1;1;"[choice_1 undefined_1; choice_4 gap_1; choice_5 gap_2]";0
+s452646;Daria;Moroz;"20 %";1;5;1;['choice_4'];0;1;"['choice_1'; 'choice_2'; 'choice_3']";1;1;7;0;1;['choice_3'];0;1;"[choice_1 undefined_1; choice_4 gap_1; choice_3 gap_2]";0
