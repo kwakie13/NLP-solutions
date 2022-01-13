@@ -1,6 +1,7 @@
 from os import listdir
 
-FOLDER = r"C:\Users\Piotr\PycharmProjects\PJN2021\Tests"
+# FOLDER = r"C:\Users\Piotr\PycharmProjects\PJN2021\Tests"
+FOLDER = r"C:\Users\Piotr\Documents\Repositories\PJN2021\Tests"  # laptop
 STUDENT_INDEX = "s452694"
 MAX_POINTS = 900
 
